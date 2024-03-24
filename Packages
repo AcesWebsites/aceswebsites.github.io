@@ -1,0 +1,573 @@
+Package: com.spatrickapps.universalvideodownloader
+Version: 1.1.1
+Section: Apps
+Maintainer: ThatOneScratchedDVD
+Depends: applist, mobilesubstrate, firmware (>= 4.3), firmware (< 8.0)
+Architecture: iphoneos-arm
+Filename: ./debs/universalvideodownloader_1.1.1.deb
+Size: 668998
+MD5sum: f0c0433d3bdd6e595a4b79bb8f3d3925
+Description: universal video downloader app , iOS 4 VERSION !!! Made By : SPatrickApps
+Name: Universal Video Downloader 
+Author: SPatrickApps
+Depiction: ./webs/1.html
+
+Package: org.h2co3.pwntube
+Version: 2.0
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate, curl, libipodimport, firmware (>= 5.0)
+Architecture: iphoneos-arm
+Filename: ./debs/pwntube_2.0.deb
+Size: 17308
+MD5sum: 1b55b03fdd03ea922c1337a76cde7d6e
+Description: TBH IDFK IF IT WORKS SO UHH U INSTALL IT ON YOUR OWN RISK. made by h2co3 . IPAD ONLY !!! even tho I allowed it on other ios devices (description :) download videos from Apple's YouTube app
+Name: PwnTube 2.0 
+Author: H2CO3 or UNKNOWN
+Depiction: ./webs/2.html
+
+Package: cycorder
+Version: 0.9.6
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 2.0), firmware (< 4.0)
+Architecture: iphoneos-arm
+Filename: ./debs/cycorder_0.9-6_iphoneos-arm.deb
+Size: 792460
+MD5sum: 9512dcbd4a1cf778971b7d8acabfbb77
+Description: Video Recorder For iPhone 2g/3g, Made by Jay Freeman (saurik) .I KNOW ITS IN DEFAULT REPO , ITS UPLOADED HERE FOR ARCHIVATION POURPOUSES . 
+Name: Cycorder
+Author: Jay Freeman (saurik) 
+Depiction: ./webs/3.html
+
+Package: mobileterminal-applesdk
+Version: 520-2
+Section: Terminal Support
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 3.2), dpkg (>= 1.14.25-8), bash, coreutils, ncurses, system-cmds
+Architecture: iphoneos-arm
+Filename: ./debs/mobileterminal_520-2.deb
+Size: 237756
+MD5sum: 976152ac3cce2f95ae2092d97807fc31
+Description: A Terminal emulator for iOS . Made by MobileTerminal .I KNOW ITS IN DEFAULT REPO , ITS UPLOADED HERE FOR ARCHIVATION POURPOUSES . 
+Name: MobileTerminal
+Author: MobileTerminal
+Depiction: ./webs/4.html
+
+Package: com.bytafont.bytafont2
+Version: 2.6.4
+Section: System
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 7),applist,unzip
+Architecture: iphoneos-arm
+Filename: ./debs/com.bytafont.bytafont2_2.6.4_iphoneos-arm.deb
+Size: 1694528
+MD5sum: 2c2f4a8788927f4c30014989fe76af85
+Description: BytaFont 2 lets you apply fonts to your iDevice in few taps. ARCHIVED FROM MODMYI , MADE BY BytaFont.com
+Name: BytaFont 2
+Author: BytaFont.com
+Depiction: ./webs/5.html
+
+Package: com.wynd.dreamboard
+Version: 1.1.4
+Section: System
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate, wget, coreutils
+Architecture: iphoneos-arm
+Filename: ./debs/com.wynd.dreamboard_1.1.4_iphoneos-arm.deb
+Size: 10001288
+MD5sum: 608390ca3439fa392291dd2ca700c2bb
+Description: Free! Advanced Theming Platform. Take control over SpringBoard! ARCHIVED FROM MODMYI , MADE BY Andrew Liu
+Name: DreamBoard
+Author: Andrew Liu
+Depiction: ./webs/6.html
+
+Package: com.iphonerepocenter.htcincrediblestheme
+Version: 1.1
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 4.0), com.wynd.dreamboard
+Architecture: iphoneos-arm
+Filename: ./debs/iprc_htcincrediblestheme_theme_1.1.deb
+Size: 9713774
+MD5sum: cb952a1566039568b8b78f81ea2715c5
+Description: based alot on the HTC Incredible S. Made by iPr0Hacker
+Name: HTC Incredible S Theme
+Author: iPr0Hacker
+Depiction: ./webs/7.html
+
+Package: com.modmyi.brandsonicwebmobile
+Version: 0.9.9
+Section: Applications
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.brandsonicwebmobile_0.9.9_iphoneos-arm.deb
+Size: 256186
+MD5sum: b8322f716395787e7b81fdfb8e4990ad
+Description: Brandsonic Web mobile is a mobile version of the free Mac and Windows Web Browser, Brandsonic Web. Requires iOS 8.0 or higher. FROM MODMYI , MADE BY sega dude
+Name: Brandsonic Web mobile
+Author: sega dude
+Depiction: ./webs/8.html
+
+Package: BootSound
+Version: 1.2
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.cl3ment.bootsound_1.2_iphoneos-arm.deb
+Size: 319744
+MD5sum: dba1affe815a83e540b549e67515fe16
+Description: Play a sound when SpringBoard starts up. Made by cl3ment. Deb File was taken from modmyi archive!
+Name: BootSound
+Author: cl3ment
+Depiction: ./webs/1.html
+
+Package: zeppelin
+Version: 2.1.0-12
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 4.2), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.alexzielenski.zeppelin_2.1.0-12_iphoneos-arm.deb
+Size: 954352
+MD5sum: b2306aca6cc4afe7ccc57210c98c0612
+Description: Replaces carrier text with an image! Made by : Alex Zielenski .Deb File was taken from modmyi archive!
+Name: Zeppelin
+Author: Alex Zielenski
+Depiction: ./webs/1.html
+
+Package: com.kobisnir.jungle
+Version: 2.3
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.kobisnir.jungle_2.3_iphoneos-arm.deb
+Size: 979404
+MD5sum: 7067a876c939dc16c2d03dc168292e02
+Description:  Download any video from YouTube, Facebook, XXX or any other website. Made by : ioslinks .Deb File was taken from modmyi archive!
+Name: Jungle Video Downloader
+Author: ioslinks
+Depiction: ./webs/1.html
+
+Package: com.julioverne.ntspeed
+Version: 0.1
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 6.0), mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.julioverne.ntspeed_0.1_iphoneos-arm.deb
+Size: 21794
+MD5sum: d466ef9266a80e227a334e4269191a66
+Description: See Active Traffic Network Speed. Made by : julioverne .Deb File was taken from modmyi archive!
+Name: NtSpeed
+Author: julioverne
+Depiction: ./webs/1.html
+
+Package: CClean
+Version: 1.2
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.itortrix.cclean_1.0-1_iphoneos-arm.deb
+Size: 239134
+MD5sum: 81e6dad373923454f14036614f91a25f
+Description: A Cleaner Control Center! Made by : thazsar .Deb File was taken from modmyi archive!
+Name: CClean
+Author: thazsar
+Depiction: ./webs/1.html
+
+Package: com.modmyi.originaliphonebatteryiconalkaline
+Version: 1.0
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.originaliphonebatteryiconalkaline_1.0_iphoneos-arm.deb
+Size: 70212
+MD5sum: d3f3f0fa6811fcc4da2bb421643acc5b
+Description: Original IPhone battery icon- Alkaline. Made by : qatarideveloper .Deb File was taken from modmyi archive!
+Name: Original IPhone battery icon- Alkaline
+Author: qatarideveloper
+Depiction: ./webs/1.html
+
+Package: com.fortysixandtwo.alkaline
+Version: 1.3
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 7.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.fortysixandtwo.alkaline_1.3_iphoneos-arm.deb
+Size: 172902
+MD5sum: a4dc9a115f4c3975a6e8a5b30b73c888
+Description: Themeable status bar battery replacement for iOS 7. Made by : magn2o .Deb File was taken from modmyi archive!
+Name: Alkaline
+Author: magn2o
+Depiction: ./webs/1.html
+
+Package: com.modmyi.lennox
+Version: 1.1
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.lennox_1.1_iphoneos-arm.deb
+Size: 100106 
+MD5sum: 26e0a433753890f906c5524dbb19f518
+Description: Introducing Lennox c:my new Battery indicator theme& Made by : dallasgroot .Deb File was taken from modmyi archive!
+Name: Lennox
+Author: dallasgroot
+Depiction: ./webs/1.html
+
+Package: com.modmyi.playstationlogoszeppelin
+Version: 1.0.2
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.alexzielenski.zeppelin
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.playstationlogoszeppelin_1.0.2_iphoneos-arm.deb
+Size: 59084
+MD5sum: 1d3fcf5f548402b54ba6f9d5594e933d
+Description: 4 different playstation logos for Zeppelin. Made by : Angelfood .Deb File was taken from modmyi archive!
+Name: PlayStation Logos Zeppelin
+Author: Angelfood
+Depiction: ./webs/1.html
+
+Package: com.modmyi.ios5battery7
+Version: 1.2-1
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.ios5battery7_1.2-1_iphoneos-arm.deb
+Size: 40372
+MD5sum: 80a8fdd823afec16ccf193dfed7a4930
+Description: iOS5 Battery7. Made by : dallasgroot .Deb File was taken from modmyi archive!
+Name: iOS5 Battery7
+Author: dallasgroot
+Depiction: ./webs/1.html
+
+Package: com.modmyi.ios6themeios7
+Version: 1.5-1
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.ios6themeios7_1.5-1_iphoneos-arm.deb
+Size: 1226198
+MD5sum: 59a4692b9520ee81772ec42c29e4df3e
+Description: Bring iOS 6 icons to iOS 7. Made by : pw5a29 .Deb File was taken from modmyi archive!
+Name: iOS 6 Theme (iOS 7)
+Author: pw5a29
+Depiction: ./webs/1.html
+
+Package: com.modmyi.windows7icons
+Version: 1.0
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.windows7icons_1.0_iphoneos-arm.deb
+Size: 88230
+MD5sum: e596fd9fdf87e513fe75d97589522167
+Description: Windows 7 Icons Made by : coolthemes .Deb File was taken from modmyi archive!
+Name: Windows 7 Icons
+Author: coolthemes
+Depiction: ./webs/1.html
+
+Package: com.modmyi.ios11theme
+Version: 11.0
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.ios11theme_11.0_iphoneos-arm.deb
+Size: 49050
+MD5sum: 4be1ac96b7dd43d6ea5194ad560ec0e1
+Description: iOS 11 theme including three new icons(app store, itunes store, and calculator) and statusbar images. Made by : DevSigneRZ .Deb File was taken from modmyi archive!
+Name: iOS 11 Theme
+Author: DevSigneRZ
+Depiction: ./webs/1.html
+
+Package: com.modmyi.animalpawbattery
+Version: 1.1
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.animalpawbattery_1.1_iphoneos-arm.deb
+Size: 520346
+MD5sum: 4e329044367fa9a2c7246ba4b2eb83e1
+Description: Animal Paw Battery. Made by : Cri16228 .Deb File was taken from modmyi archive!
+Name: Animal Paw Battery
+Author: Cri16228
+Depiction: ./webs/1.html
+
+Package: com.gmoran.iandroid
+Version: 2.1
+Section: Entertainment
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.gmoran.iandroid_2.1_iphoneos-arm.deb
+Size: 12157490
+MD5sum: 20dd006c1baa93e8301e4a27f806eb17
+Description: Welcome to iAndroid, the one and only Android Simulator for the iPhone! Made by : fr0st .Deb File was taken from modmyi archive!
+Name: iAndroid
+Author: fr0st
+Depiction: ./webs/1.html
+
+Package: com.modmyi.bootsoundsoundspack
+Version: 1.5
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.bootsoundsoundspack_1.5_iphoneos-arm.deb
+Size: 11971292
+MD5sum: baf5539be8e6d150bb467c6f2378bcd6
+Description: BootSound Sounds Pack.  Made by : madkey .Deb File was taken from modmyi archive!
+Name: BootSound Sounds Pack
+Author: madkey
+Depiction: ./webs/1.html
+
+Package: com.sirifl0w.swipeaway
+Version: 1.1 or 2.1 IDK SORRY
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.sirifl0w.swipeaway_1.1_iphoneos-arm.deb
+Size: 40978
+MD5sum: 0f51093f984ba86f0ebe02d77a6c8dab
+Description: Kill all apps in app switcher via a swipe! Made by : Sirifl0w & iJailpod .Deb File was taken from modmyi archive!
+Name: SwipeAway
+Author: Sirifl0w & iJailpod
+Depiction: ./webs/1.html
+
+Package: com.modmyi.samsunggalaxybattery
+Version: 1.0.0
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.samsunggalaxybattery_1.0.0_iphoneos-arm.deb
+Size: 51540
+MD5sum: 4709385848cfa725b552c8059fd3d3ac
+Description: Samsung Galaxy Battery. Made by : Justin631 .Deb File was taken from modmyi archive!
+Name: Samsung Galaxy Battery
+Author: Justin631
+Depiction: ./webs/1.html
+
+Package: com.modmyi.samsunggalaxybatterygold
+Version: 1.0
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.samsunggalaxybatterygold_1.0_iphoneos-arm.deb
+Size: 15550
+MD5sum: afe38bcfef3e68747520cb446d441d29
+Description: Samsung Galaxy Battery Gold. Made by : Cri16228 .Deb File was taken from modmyi archive!
+Name: Samsung Galaxy Battery Gold
+Author: Cri16228
+Depiction: ./webs/1.html
+
+Package: com.modmyi.samsunggalaxybatterygreen
+Version: 1.1
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: com.fortysixandtwo.alkaline
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.samsunggalaxybatterygreen_1.1_iphoneos-arm.deb
+Size: 13398
+MD5sum: b41c533f43b2ea9d348c221b67d0b16e
+Description: Samsung Galaxy Battery Green. Made by : Cri16228 .Deb File was taken from modmyi archive!
+Name: Samsung Galaxy Battery Green
+Author: Cri16228
+Depiction: ./webs/1.html
+
+Package: com.modmyi.pixellauncher
+Version: 1.1
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.pixellauncher_1.1_iphoneos-arm.deb
+Size: 1783710
+MD5sum: ec975ad858fc6c87cd8a992eb0cc7fad
+Description: Bring Pixel Launcher to iOS! Made by : Skittyblock .Deb File was taken from modmyi archive!
+Name: Pixel Launcher
+Author: Skittyblock
+Depiction: ./webs/1.html
+
+Package: com.modmyi.youtubezeppelinpack
+Version: 1.0.1
+Section: Addons
+Maintainer: ThatOneScratchedDVD
+Depends: zeppelin
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.youtubezeppelinpack_1.0.1_iphoneos-arm.deb
+Size: 72410 
+MD5sum: 5312e79862637167881abbb278e47e80
+Description: Youtube Zeppelin Pack Made. by : Flaming Inverse .Deb File was taken from modmyi archive!
+Name: Youtube Zeppelin Pack
+Author: Flaming Inverse
+Depiction: ./webs/1.html
+
+Package: com.juegamenia.minigolf
+Version: 1.0 OR 2.0 IDK SOWWY
+Section: Games
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.juegamenia.minigolf_1.0_iphoneos-arm.deb
+Size: 4567552
+MD5sum: 8e3725fe3572838de0f1e2c790eb21e0
+Description: mini golf in three different scenarios. Made by : juegamenia .Deb File was taken from modmyi archive!
+Name: Minigolf
+Author: juegamenia
+Depiction: ./webs/1.html
+
+Package: Cydia
+Version: 1.1.18
+Section: EXPERIMENT
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/cydia_1.1.18_iphoneos-arm.deb
+Size: 844768
+MD5sum: 92e59c2a7060d4dc358c18c57ea48177
+Description: DONT USE THIS WILL BREAK YOUR CYDIA THIS IS EXPERIMENTAL TWEAK IT WILL LITTELARY BREAK YOUR CYDIA AS ITS MADE FOR IOS 2-3 AND ITS OLD ITS HERE FOR NO REASON. Made by : Jay Freeman .
+Name: DONT USE , Cydia 1.1.18
+Author: Jay Freeman
+Depiction: ./webs/1.html
+
+Package: com.modmyi.appleretroloaderios6and5
+Version: 1.0
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.appleretroloaderios6and5_1.0_iphoneos-arm.deb
+Size: 3103704
+MD5sum: 3c2296e99159b9cea0d42d364a0bc9ff
+Description: Replace your original loader with a retro color apple logo. Made by : gooa .Deb File was taken from modmyi archive!
+Name: Apple Retro Loader iOS 6 and 5
+Author: gooa
+Depiction: ./webs/1.html
+
+Package: com.app1enerd.playgesture
+Version: 1.2 , deb file says 1.0 but thats uhh i think false
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Filename: ./debs/com.app1enerd.playgesture_1.0_iphoneos-arm.deb
+Size: 2472
+MD5sum: f4cfe4fecd20dfeba6e8c22102730c29
+Description: Simply swipe you finger up in the lockscreen, and the music will start. Made by : App1eNerd .Deb File was taken from modmyi archive!
+Name: PlayGesture
+Author: App1eNerd
+Depiction: ./webs/1.html
+
+Package: cn.tinyapps.xgps
+Version: 2.1
+Section: Utilities
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/cn.tinyapps.xgps_2.1_iphoneos-arm.deb
+Size: 4496562
+MD5sum: 683d43a21cc45e6a9c1336b450385b67
+Description: Fake GPS, fake your location! Made by : ShaneWen .Deb File was taken from modmyi archive!
+Name: Fake GPS(Ding Wei Xiu Gai Qi)-support iOS 5.1.1~9.1
+Author: ShaneWen
+Depiction: ./webs/1.html
+
+Package: com.nablac0d3.sslkillswitch2
+Version: 0.14
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate, preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/com.nablac0d3.sslkillswitch2_0.14.deb
+Size: 7392
+MD5sum: 41ebada26cdb598d0072594208d14921
+Description: Blackbox tool to disable SSL certificate validation - including certificate pinning - within iOS and OS X Apps. Made By : Alban Diquet. Taken From Github.
+Name: SSL Kill Switch 2
+Author: Alban Diquet
+Depiction: ./webs/1.html
+
+Package: com.modmyi.doomrespringlogo
+Version: 1.1
+Section: Themes
+Maintainer: ThatOneScratchedDVD
+Depends: winterboard
+Architecture: iphoneos-arm
+Filename: ./debs/com.modmyi.doomrespringlogo_1.1_iphoneos-arm.deb
+Size: 5615132
+MD5sum: aead5ec988bf9cfd410fb5031c1df322
+Description: DOOM Respring Logo. Made by : ecffg2010 .Deb File was taken from modmyi archive!
+Name: DOOM Respring Logo
+Author: ecffg2010
+Depiction: ./webs/1.html
+
+Package: com.kobisnir.easy-ringtone
+Version: 3.1
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/com.kobisnir.easy-ringtone_3.1_iphoneos-arm.deb
+Size: 2001916
+MD5sum: 4c1c61231d9961c0a0637c81ab7a2e7e
+Description: Download any video / track from YouTube, SoundCloud or any other website and convert it to Ringtone. Made by : ioslinks .Deb File was taken from modmyi archive!
+Name: Easy Ringtone
+Author: ioslinks
+Depiction: ./webs/1.html
+
+Package: net.ddns.mobileapps.mediadownload
+Version: 2.8
+Section: Utilities
+Maintainer: ThatOneScratchedDVD
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./debs/net.ddns.mobileapps.mediadownload_2.8_iphoneos-arm.deb
+Size: 9856930
+MD5sum: 7d4d52fa49ea8a8118377501baad16b4
+Description: Music and Video Downloader, all major tube sites supported! Made by : mobileapps .Deb File was taken from modmyi archive!
+Name: Media Downloader
+Author: mobileapps
+Depiction: ./webs/1.html
+
+Package: vn.gsm.taskmaster
+Version: 1.3-2
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: mobilesubstrate, com.a3tweaks.flipswitch, firmware (>= 5.1.1), preferenceloader
+Architecture: iphoneos-arm
+Filename: ./debs/sorry/vn.gsm.taskmaster_1.3-2.deb
+Size: 408974
+MD5sum: 19b2992162b0548830a8363e0f0813d8
+Description: DISABLED REQUIREMENT FOR switch.private-browsing , MAY NOT WORK. awesome system controls in SpotLight. Made by : iA1eX .ORIGINAL REPO : BIGBOSS. IM SO SORRY THAT I REUPLOADED YOUR PACKET , I WANTED TO CONTACT YOU AND ASK FOR PERMS BUT I SADLY DIDNT FIND YOUR CONTACT INFO ANYWHERE , PLEASE MESSAGE ME ON EMAIL IN MY REPO DESC AND I WILL REMOVE IT. original price : $1.99
+Name: TaskMaster
+Author: iA1eX
+Depiction: ./webs/1.html
+
+Package: net.namedfork.minivmac
+Version: v1.2.2
+Section: Emulation
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 2.0), firmware (<= 6.1.6)
+Architecture: iphoneos-arm
+Filename: ./debs/minivmac-1.2.2.deb
+Size: 276870
+MD5sum: 053255c3c1c23ff7c2890a9d1b358196
+Description: Mini vMac Mac Plus emulator. Made by : Jesus A. Alvarez <zydeco@namedfork.net> .Deb File was taken from Original Github archived Page!
+Name: Mini vMac
+Author: Jesus A. Alvarez <zydeco@namedfork.net>
+Depiction: ./webs/1.html
