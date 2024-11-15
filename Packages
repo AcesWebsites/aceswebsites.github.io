@@ -571,3 +571,17 @@ Description: Mini vMac Mac Plus emulator. Made by : Jesus A. Alvarez <zydeco@nam
 Name: Mini vMac
 Author: Jesus A. Alvarez <zydeco@namedfork.net>
 Depiction: ./webs/1.html
+
+Package: ai.akemi.appsyncunified
+Version: 112.0
+Section: Tweaks
+Maintainer: ThatOneScratchedDVD
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 16.5.1)
+Architecture: iphoneos-arm
+Filename: ./debs/nodelete-ai.akemi.appsyncunified.deb
+Size: 58440
+MD5sum: 26f898f0b80f3bd842527aa9a9859bb1
+Description: Enables the ability to install unsigned/fakesigned iOS applications. Made by : Karen/あけみ, Linus Yang .Deb File was taken from cydia.akemi.ai archive.org!
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang
+Depiction: ./webs/1.html
